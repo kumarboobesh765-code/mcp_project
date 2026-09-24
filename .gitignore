@@ -1,0 +1,6 @@
+__pycache__/
+.freebuff/
+*.py[cod]
+.venv/
+venv/
+.env
